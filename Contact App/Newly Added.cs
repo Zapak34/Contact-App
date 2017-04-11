@@ -16,6 +16,7 @@ namespace Contact_App
         {
             InitializeComponent();
             //HAHAHAHAHA
+            //IT WORKS
         }
     }
 }
