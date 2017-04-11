@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="LisaNewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LisaNewForm.Designer.cs">
+      <DependentUpon>LisaNewForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Newly Added.cs">
       <SubType>Form</SubType>
     </Compile>

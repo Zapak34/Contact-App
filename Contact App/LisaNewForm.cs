@@ -10,14 +10,11 @@ using System.Windows.Forms;
 
 namespace Contact_App
 {
-    public partial class Newly_Added : Form
+    public partial class LisaNewForm : Form
     {
-        public Newly_Added()
+        public LisaNewForm()
         {
             InitializeComponent();
-            //HAHAHAHAHA
-            //IT WORKS
-           
         }
     }
 }
