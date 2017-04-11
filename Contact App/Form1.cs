@@ -18,6 +18,7 @@ namespace Contact_App
         {
             InitializeComponent();
             FillDataGridViw();
+            //COMMENTED
         }
 
 
