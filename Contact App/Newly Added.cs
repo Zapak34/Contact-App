@@ -15,6 +15,7 @@ namespace Contact_App
         public Newly_Added()
         {
             InitializeComponent();
+            //HAHAHAHAHA
         }
     }
 }
